@@ -1,0 +1,42 @@
+.header{
+  background-color: white;
+  position: absolute;
+  z-index: 99;
+  width: 100%;
+  margin: 0 0 30px;
+  color: #fff;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+
+.navbar-nav navbar-right{
+    text-align: center;
+}
+
+#name1 {
+  float: left;
+  width: 250px;
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  background-color: gray;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+  background-color: #666666;
+  width: 100%;
+  color: white;
+}
